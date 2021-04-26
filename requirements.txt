@@ -1,0 +1,8 @@
+numpy
+nltk
+selenium
+webdriver_manager
+lxml
+pandas
+seaborn
+plotly

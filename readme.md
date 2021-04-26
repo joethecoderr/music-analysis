@@ -1,10 +1,10 @@
-# Music Analysis | Joel Gaspar
+# Music Analysis | Spotify Dataset
 
 This little project it is about exploring a Kaggle Dataset, obtained by using the Spotify API.  
 At first, I just begun by exploring the datasets to see what interesting insights could be found.  
 
 
-In one of my explorations i realized that songs from the 30's and 40's seemed to be lots more lyrical that the newer ones, less danceable. That made me think of the hypothesis that that could be related to the WW II, by artists making more songs about war so I created a scraper for this.  
+In one of my explorations i realized that songs from the 30's and 40's seemed to be lots more lyrical that the newer ones, less danceable. That made me thinkgit di of the hypothesis that that could be related to the WW II, by artists making more songs about war so I created a scraper for this.  
 The scrapers search for the lyrics of the songs and then the data retrieved is consumed by one of the notebooks.  
 
 ### Notebooks
