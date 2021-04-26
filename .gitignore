@@ -1,0 +1,4 @@
+.ipynb_checkpoints/*
+scraper/env/*
+/.vscode
+scraper/chromedriver.exe
